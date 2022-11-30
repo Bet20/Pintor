@@ -1,4 +1,4 @@
 #!/bin/bash
 
-gcc -o main main.c
-./main
+gcc -o build/main main.c
+./build/main
